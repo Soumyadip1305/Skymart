@@ -2,8 +2,8 @@
 
 # SKYMART E-commerce Platform
 
-![SKYMART Logo](![Untitled design](https://github.com/Soumyadip1305/Skymart/assets/115612619/0c585047-2453-4303-a0a3-b7d19e45a536)
-)
+![Untitled design](https://github.com/Soumyadip1305/Skymart/assets/115612619/0c585047-2453-4303-a0a3-b7d19e45a536)
+
 
 ## Overview
 
